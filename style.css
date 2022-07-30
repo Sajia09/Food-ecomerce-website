@@ -77,3 +77,9 @@ input[type="search"]:focus {
     height: 90hv;
     width: 100%;
 }
+.line{
+    height: 6px;
+    width: 50%;
+    background: rgb(20, 219, 20);
+    display: inline-block;
+}
