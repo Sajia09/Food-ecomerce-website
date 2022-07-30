@@ -1,0 +1,43 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand img{
+    height: 40px;
+    width: 100px;
+}
+.nav-item{
+    color:black;
+    padding-right: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.nav-item a:hover{
+    color:rgb(20, 219, 20);
+}
+
+input[type="search"] {
+    height: 40px;
+    width: auto;
+    outline: none;
+    border: 2px solid rgb(20, 219, 20);
+    background-color: transparent;
+    border-radius: 20px 0px 0px 20px;
+    border-right: none;
+}
+input[type="search"]:focus {
+    outline: none;
+    box-shadow: none;
+    border: 2px solid rgb(50, 181, 46);
+    border-right: none;
+}
+.btn1{
+    background-color: rgb(20, 219, 20);
+    color: white;
+    border: none;
+    border-radius: 0px 20px 20px 0px;
+}
+.btn1:hover{
+    background-color: rgb(13, 115, 10);
+}
