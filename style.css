@@ -83,3 +83,15 @@ input[type="search"]:focus {
     background: rgb(20, 219, 20);
     display: inline-block;
 }
+.icon{
+    text-align: center;
+    color: rgb(20, 219, 20);
+    width: 100%;
+    padding: 20px;
+}
+.welcome{
+    background-color: rgb(20, 219, 20)
+}
+.line2{
+    background-color: white;
+}
